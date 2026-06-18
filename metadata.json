@@ -1,0 +1,6 @@
+{
+  "name": "EcoSetu",
+  "description": "Your personalized carbon footprint tracker and sustainability coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
